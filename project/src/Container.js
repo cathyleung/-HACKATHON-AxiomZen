@@ -1,7 +1,7 @@
 /**
  * Created by trentyou on 3/11/17.
  */
-import React from 'react';
+import React, { Component } from 'react';
 import GoogleApiComponent from './GoogleApiComponent';
 import { Map, Marker } from 'google-maps-react';
 
@@ -23,11 +23,12 @@ export class Container extends React.Component {
             return <div>Loading...</div>
         }
         return (
-            <Map google={this.props.google} onclick={this.onClickMap}>
-                <Marker onMouseover={this.onMouseoverMarker}
+            <div style={{position: 'relative'}}>
+                <Map google={this.props.google} onclick={this.onClickMap}>
+                 <Marker onMouseover={this.onMouseoverMarker}
                         name={'Current location'} />
-
-            </Map>
+               </Map>
+            </div>
         )
     }
 }

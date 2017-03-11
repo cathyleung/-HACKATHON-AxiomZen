@@ -1,20 +1,34 @@
 import React, { Component } from 'react';
 import { Map, InfoWindow, Marker } from 'google-maps-react'
 import Container from './Container';
+import Search from './Search';
 import './App.css';
 
 class App extends Component {
 
     constructor(props) {
         super(props);
-        this.state = { selectedPlace: {name : ''}}
+        /*
+        var latlon = {
+            lat: 49.2827,
+            lng: -123.1207
+        } */
+        //Map.defaultProps.initialCenter = latlon;
+        this.state = { selectedPlace: {name : ''}};
+        console.log('props');
+        console.log(props);
     }
     onInfoWindowClose(args) {
         console.log(args);
     }
     onMarkerClick(props, marker, e) {
         console.log(props, marker, e)
-}
+    }
+
+    searchDot(e, coords) {
+        e.preventDefault();
+        this.latlon = coords;
+    }
   render() {
     //return (
     //  <div className="App">
@@ -30,8 +44,9 @@ class App extends Component {
       //
       //
       return (
-        <Container />
-
+          <div className="MapContainer">
+                <Search />
+          </div>
       )
 
 
