@@ -1,0 +1,52 @@
+{"housing": [
+  {
+    "name": "Inland Refugee Society",
+    "address": "2610 Victoria Dr, Vancouver, BC V5N 4L2",
+    "location": [49.261310, -123.065578],
+    "website": "http://inlandrefugeesociety.ca/",
+    "phone": "(778) 328-8888"},
+  {
+    "name": "Kinbrace Refugee Housing & Support",
+    "address": "1820 Venables St, Vancouver, BC V5L 2H7",
+    "location": [49.276659, -123.066324],
+    "website": "http://kinbrace.ca/",
+    "phone": "(604) 255-9691"},
+  {
+    "name": "Al Mitchell Place",
+    "address": "346 Alexander St, Vancouver, BC V6A 1C3",
+    "location": [49.284532, -123.096233],
+    "website": "http://www.lookoutsociety.ca/",
+    "phone": "604-255-0340"},
+  {
+    "name": "Yukon Shelter and Housing Centre - Lookout Society",
+    "address": "2088 Yukon St, Vancouver, BC V5Y 4B1",
+    "location": [49.271666, -123.111821],
+    "website": "http://www.lookoutsociety.ca/",
+    "phone": "(604) 264-1680"},
+  {
+    "name": "New Fountain Shelter",
+    "address": "1005 Station St, Vancouver, BC V6A 0B7",
+    "location": [49.276910, -123.098347],
+    "website": "https://www.phs.ca/index.php/project/new-fountain-shelter/",
+    "phone": "(604) 681-9478"},
+  {
+    "name": "The Salvation Army Belkin House",
+    "address": "555 Homer St, Vancouver, BC V6B 1K8",
+    "location": [49.283145, -123.112781],
+    "website": "http://belkinhouse.ca/",
+    "phone": "(604) 681-3405"},
+  {
+    "name": "Downtown Eastside Womens Emergency Shelter",
+    "address": "412 E Cordova St, Vancouver, BC V6A 3A6",
+    "location": [49.282111, -123.094036],
+    "website": "http://dewc.ca/",
+    "phone": "(604) 681-8480"},
+  {
+    "name": "Welcome House For Immigrants",
+    "address": "530 Drake St Vancouver, BC V6B 2H3",
+    "location": [49.275381, -123.126843],
+    "website": "https://clbc.cioc.ca/record/CLB2501",
+    "phone": "(604) 684-7498"}
+  ]
+}
+

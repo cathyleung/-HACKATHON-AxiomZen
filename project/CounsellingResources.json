@@ -1,0 +1,133 @@
+//Counselling Services in Vancouver
+// {"ResourceType": "name of servivce", "address", "location:" longitutde & latitude, webURL, opening hours, phone number, languages offered??}
+
+{"Counselling": [
+  {
+    "name": "Vancouver Association for Survivors of Torture",
+    "address": "2610 Victoria Dr, Vancouver, BC V5N 4L2",
+    "location": [49.261214, -123.065483],
+    "website" : "http://vast-vancouver.ca/",
+    "phone": "(604) 255-1881"
+  },
+
+  {
+    "name": "Vancouver & Lower Mainland Multicultural Family Support Services Society",
+    "address": "4980 Kingsway,Ste 306, Burnaby, BC V5H 4K7",
+    "location": [49.225835, -122.992391],
+    "website" : "http://vvlmfss.ca/",
+    "phone": "(604) 436-1025"
+  },
+
+  {
+    "name": "DIVERSEcity Community Resources Society",
+    "address": "13455 76 Ave, Surrey, BC V3W 2W3",
+    "location": [49.141238, -122.849290],
+    "website" : "http://www.dcrs.ca/",
+    "phone": "(604) 597-0205"
+  },
+
+  {
+    "name": "Battered Women's Support Services",
+    "address": "1092 Seymour St, Vancouver, BC V6B 1B4",
+    "location": [49.141238, -122.849290],
+    "website" : "http://bwss.org/",
+    "phone": "(604) 687-0770"
+  },
+
+
+  {
+    "name": "Immigrant Services Society of BC",
+    "address": "2610 Victoria Dr, Vancouver, BC V5N 4L2",
+    "location": [49.141238, -122.849290],
+    "website" : "http://issbc.org/",
+    "phone": "(604) 684-2561"
+  },
+
+  {
+    "name": "Family Services Greater Vancouver",
+    "address": "1134 Burrard St, Vancouver, BC V6Z 2E3",
+    "location": [49.279609, -123.127820],
+    "website" : "http://www.fsgv.ca/",
+    "phone": "(604) 731-4951"
+  },
+
+  {
+    "name": "Family Services Greater Vancouver",
+    "address": "1193 1193 Kingsway, Vancouver, BC V5V 3C9",
+    "location": [49.252528, -123.080243],
+    "website" : "http://www.fsgv.ca/",
+    "phone": "(604) 874-2938"
+  },
+
+  {
+    "name": "Family Services Greater Vancouver",
+    "address": "201 – 1638 E Broadway, Vancouver, BC V5N 1W1",
+    "location": [49.262160, -123.070940],
+    "website" : "http://www.fsgv.ca/",
+    "phone": "(604) 731-4951"
+  },
+
+  {
+    "name": "Family Services Greater Vancouver",
+    "address": "Fraser St, Vancouver, BC V5V 4E5",
+    "location": [49.248379, -123.090142],
+    "website" : "http://www.fsgv.ca/",
+    "phone": "(604) 875-6277"
+  },
+
+  {
+    "name": "Family Services Greater Vancouver",
+    "address": "321 Sixth St, New Westminster, BC V3L 3A7",
+    "location": [49.209454, -122.915419],
+    "website" : "http://www.fsgv.ca/",
+    "phone": "(604) 525-9144"
+  },
+
+  {
+    "name": "Oak Counselling",
+    "address": "949 West 49th Avenue, Vancouver, BC V5Z 2T1",
+    "location": [49.226736, -123.127592],
+    "website" : "http://www.oakcounselling.org/",
+    "phone": "(604) 266-5611"
+  },
+
+  {
+    "name": "Adler Centre - Counselling Clinic",
+    "address": "440, 2184 W Broadway, Vancouver, BC V6K 2E1",
+    "location": [49.263642, -123.154872],
+    "website" : "http://adlercentre.ca/counselling-clinic/",
+    "phone": "(604) 742-1818"
+  },
+
+  {
+    "name": "UBC Psychology Clinic",
+    "address": "Room 1409A, 2136 West Mall, Vancouver, BC, V6T 1Z4",
+    "location": [49.263365, -123.254309],
+    "website" : "http://clinic.psych.ubc.ca/",
+    "phone": "(604) 822-3005"
+  },
+
+  {
+    "name": "ProChoices Community Therapy Clinic",
+    "address": "245 E Broadway, Vancouver, BC V5T 3H9",
+    "location": [49.263008, -123.100132],
+    "website" : "https://prochoices.ca/",
+    "phone": "N/A"
+  },
+
+  {
+    "name": "Broadway Youth Resource Centre",
+    "address": "2455 Fraser St, Vancouver, BC V5T 0E6",
+    "location": [49.262841, -123.089279],
+    "website" : "http://www.pcrs.ca/service-resource-centres/broadway-youth-resource-centre-2/",
+    "phone": "(604) 709-5729"
+  }
+
+]
+}
+
+
+
+
+
+

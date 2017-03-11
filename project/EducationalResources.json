@@ -1,0 +1,57 @@
+{"Educational": [
+
+  {
+    "name": "MOSAIC - Multilingual Orientation Service Association for Immigrant Communities",
+    "address": "7009 Kingsway, Burnaby, British Columbia, V5E 1E5",
+    "location": [49.218638, -122.959105],
+    "website" : "http://mosaicbc.org/",
+    "phone": "(604) 636-0120",
+    "services": ["language", "job search"]
+  },
+
+  {
+    "name": "Immigrant Services Society of BC",
+    "address": "200-620 Royal Avenue, New Westminster, British Columbia, V3M 1J2",
+    "location": [49.204927, -122.911497],
+    "website" : "http://issbc.org/",
+    "phone": "(604) 522-5902",
+    "services": ["language", "job search"]
+  },
+
+  {
+    "name": "Immigrant Services Society of BC",
+    "address": "110-5751 Cedarbridge Way, Richmond, British Columbia, V6X 2A8",
+    "location": [49.173643, -123.142832],
+    "website" : "http://issbc.org/",
+    "phone": "(604) 522-5902",
+    "services": ["language", "job search"]
+  },
+
+  {
+    "name": "DIVERSEcity Community Resources Society",
+    "address": "13455 76 Ave, Surrey, BC V3W 2W3",
+    "location": [49.141238, -122.849290],
+    "website" : "http://www.dcrs.ca/",
+    "phone": "(604) 597-0205",
+    "services": ["language"]
+  },
+
+  {
+    "name": "S.U.C.C.E.S.S.",
+    "address": "28 West Pender Street, Vancouver, British Columbia,V6B 1R6",
+    "location": [49.280493, -123.105148],
+    "website" : "https://www.successbc.ca/",
+    "phone": "(604) 408-7272",
+    "services": ["language"]
+  },
+
+  {
+    "name": "Western ESL Services",
+    "address": "208 – 2525 Commercial Drive, Vancouver, British Columbia, V5N 4C1",
+    "location": [49.262009, -123.070152],
+    "website" : "http://newtobc.ca/immigrant_service/elsa-net/",
+    "phone": "(604) 876-5756",
+    "services": ["language"]
+  }
+]
+}
