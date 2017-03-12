@@ -91,12 +91,13 @@ export class Search extends React.Component {
         document.getElementById('output').innerHTML = searchaddress;
         axios.get(searchaddress).then( function( data) {
             console.log(Object.keys(data));
-            var lat = data['data']['results'];
-            //var lon = data['results'][0]['geometry']['location']['lng'];
+            var lat = data['data']['results'][0]['geometry']['location']['lat'];
+            var lon = data['data']['results'][0]['geometry']['location']['lng'];
             console.log('lat is ' + lat);
-            //console.log('lon is ' + lon);
-            /*
-            var locations = this.data2.Counselling;
+            console.log('lon is ' + lon);
+            console.log("data2 is: " + this.data2);
+
+            var locations = this.data2['Counselling'];
             for (var i = 0; i < locations.length; i++) {
                 var objlat = locations[i].location[0];
                 var objlon = locations[i].location[1];
@@ -106,7 +107,7 @@ export class Search extends React.Component {
                     innerHTML += "<li class=\"list-group-item\"><p>" + locations[i].name + "</p><p>" + locations[i].address + "</p></li>";
                     document.getElementById('output').innerHTML = innerHTML;
                 }
-            } */
+            }
         }).catch( function( err) {
             console.log(err);
         })
