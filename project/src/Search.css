@@ -1,0 +1,4 @@
+.SearchContainer {
+    display: flex;
+    flex-direction: row;
+}
